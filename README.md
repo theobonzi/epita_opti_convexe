@@ -1,7 +1,7 @@
 # 📉 Benchmark des Méthodes de Descente de gradient
 
 ## Introduction
-TP de recherche et d'analyse sur les méthodes de descente de gradient en optimisation convexe. Ce travail a été réalisé dans le cadre du cours d'optimisation convexe à EPITA par Théo Bonzi, Marc Lagoin et Daniel Rosa.
+TP de recherche et d'analyse sur les méthodes de descente de gradient en optimisation convexe. Ce travail a été réalisé dans le cadre du cours d'optimisation convexe à EPITA par Marc Lagoin, Daniel Rosa et Théo Bonzi.
 
 ## Date
 14 juin 2023
